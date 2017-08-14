@@ -8,11 +8,13 @@ Make a Yoda translator! Your Javascript can be object-oriented, or not!
 
 #### Requirements
 
-- When someone enters text and presses the "enter" key, send the text to the YodaSpeak API to figure out how Yoda would say it. Print the translated text in the Yoda-colored text area at the bottom of the page.
+1. When someone enters text and presses the "enter" key, send the text to the YodaSpeak API to figure out how Yoda would say it. 
 
-- Every 5 seconds, the text in the Yoda-colored text area should be replaced with "...", as if an awkward silence was falling. 
+2. Print the translated text in the Yoda-colored text area at the bottom of the page.
 
-- Below is an example of how you might communicate with the API. You can copy it directly, or modify it!
+3. Every 5 seconds, the text in the Yoda-colored text area should be replaced with "...", as if an awkward silence was falling. 
+
+Below is an example of how you might communicate with the API. You can copy it directly, or modify it!
 
 ```js
 $.ajax({
