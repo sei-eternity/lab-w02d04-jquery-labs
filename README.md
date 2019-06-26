@@ -4,22 +4,13 @@
 
 Instructions:
 
-- Make sure to fork and clone each repo.
-- Make a pull request on the DOM lab and the Click Events lab.
+- Make sure to fork and clone this repo.
+- Create a `training` brach to work on.
 
 ***
 
 <br />
 
-## Yo Yo Da - make a pull request on this lab
-
-Check out the README instructions in the `yo-yo-da` folder.
-
-
-<br>
-
-
-## When you're done, try completing these using jQuery
 
 **Keep in mind that you'll need to add the jQuery CDN script tags to both of these**
 
